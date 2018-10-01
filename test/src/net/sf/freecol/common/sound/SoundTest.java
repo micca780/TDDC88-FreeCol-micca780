@@ -63,7 +63,7 @@ public class SoundTest extends FreeColTestCase {
         soundPlayer = null;
     }
 
-	//Comment 2
+	//Comment 3
     private void playSound(String id) {
         File file = ResourceManager.getAudio(id);
         assertNotNull("No sound resource: " + id, file);
