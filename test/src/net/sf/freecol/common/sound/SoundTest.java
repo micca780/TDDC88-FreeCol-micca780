@@ -78,7 +78,7 @@ public class SoundTest extends FreeColTestCase {
   //          fail("Could not play " + id + ": " + e.getMessage());
   //      }
   //  }
-	//
+
 
     public void testSound() {
         // these sounds are base resources, and should be enough for a test
