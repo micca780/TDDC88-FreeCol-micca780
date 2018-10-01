@@ -79,7 +79,7 @@ public class SoundTest extends FreeColTestCase {
   //      }
   //  }
 
-
+//
     public void testSound() {
         // these sounds are base resources, and should be enough for a test
         playSound("sound.intro.general");
